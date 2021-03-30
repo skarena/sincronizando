@@ -1,4 +1,1 @@
-Estoy queriendo fusionar las ramas. Peladita
-Estoy utilizando VSC (Visual Studio Code)
-Ya he creado cuenta en GitHub. He sincronizado
-Ahora estoy fusionando las ramas, PELADITA.
+Estoy queriendo fusionar las ramas.
